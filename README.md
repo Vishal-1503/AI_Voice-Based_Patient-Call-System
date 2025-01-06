@@ -78,7 +78,7 @@ The **Voice-Based Patient Call System** is designed to streamline communication 
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/Kailash51/Voice-Based-Patient-Call-System.git
+git clone https://github.com/Vishal-1503/AI_Voice-Based_Patient-Call-System.git
 cd Voice-Based-Patient-Call-System
 ```
 #### 2. Backend Setup
@@ -119,7 +119,7 @@ Contributions are welcome! Follow these steps:
 
 - ##### 1. Fork the repository:
 ```bash
-git fork https://github.com/Kailash51/Voice-Based-Patient-Call-System.git
+git fork https://github.com/Vishal-1503/AI_Voice-Based_Patient-Call-System.git
 ```
 - ##### 2. Create a new branch:
 ```bash
